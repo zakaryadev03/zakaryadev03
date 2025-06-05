@@ -4,6 +4,7 @@
 
 🌩️ I love working with:
 - The cloud platforms **AWS**
+- MERN stack
 - Containerization tool **Docker**
 - Orchestration with **Kubernetes**
 - CI/CD pipelines with **GitHub Actions**, **GitLab CI**, and more
