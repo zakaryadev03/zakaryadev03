@@ -20,7 +20,6 @@
 
 ### 🚀 Projects
 Check out some of my work:
-- 🔗 [Price Aggregator Microservices App](https://github.com/zakaryadev03/Price-aggregator)
 - 🔗 [Movie Rating Prediction](https://github.com/zakaryadev03/Movie-Rating-Prediction)
 - 🔗 [Multi node openstack server integrated with external ceph cluster](https://github.com/zakaryadev03/Openstack)
 
