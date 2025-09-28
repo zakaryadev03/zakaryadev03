@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Zakarya Belaid
 
-🎓 I'm a 4th-year DevOps engineering student at INPT, passionate about cloud computing, automation, and modern software delivery practices.
+🎓 I'm a 5th-year DevOps engineering student at INPT, passionate about cloud computing, automation, and modern software delivery practices.
 
 🌩️ I love working with:
-- The cloud platforms **AWS**
+- The cloud platforms **AWS** and **Azure**
 - MERN stack
 - Containerization tool **Docker**
 - Orchestration with **Kubernetes**
-- CI/CD pipelines with **GitHub Actions**, **GitLab CI**, and more
+- CI/CD pipelines with **GitHub Actions**, ** Jenkins**
 - Infrastructure as Code using **Terraform** and **Ansible**
 
 💻 I'm currently:
