@@ -6,7 +6,7 @@
 - The cloud platforms **AWS**, **Azure** and **OCI**
 - Nextjs
 - **Docker** and **Kubernetes**
-- CI/CD pipelines with **GitHub Actions**, ** Jenkins** and **Azure DevOps**
+- CI/CD pipelines with **GitHub Actions**, **Jenkins** and **Azure DevOps**
 - Infrastructure as Code using **Terraform** and **Ansible**
 
 💻 I'm currently:
